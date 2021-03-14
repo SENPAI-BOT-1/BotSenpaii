@@ -6,7 +6,15 @@
 
 - 🌱 Atualmente estou aprendendo **nothing**.
 
-- 👀 I m currently focusing on **JavaScript**.
+- 👀 Atualmente estou me concentrando em **JavaScript**.
+ #Créditos
+
+
+* [`Número do dono`](https://wa.me/5565981709268)
+
+* [`Grupo ofc`](https://chat.whatsapp.com/Kr5QiYOLrlWCsIhfDz0vnG)
+
+* [`Canal do YT`] https://youtube.com/channel/UC1GWxdNnpB0oXT9bDUUWJ7w
 
 ## Features
 
@@ -106,13 +114,5 @@
 |       ✅        |   Clone                           |
 |       ✅        |   Broadcast                |
 
- #Créditos
-
-
-* [`Número do dono`](https://wa.me/5565981709268)
-
-* [`Grupo ofc`](https://chat.whatsapp.com/Kr5QiYOLrlWCsIhfDz0vnG)
-
-* [`Canal do YT`] (https://youtube.com/channel/UC1GWxdNnpB0oXT9bDUUWJ7w)
 
 
