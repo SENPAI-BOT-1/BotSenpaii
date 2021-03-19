@@ -7,7 +7,8 @@
 - 🌱 Atualmente estou aprendendo **nothing**.
 
 - 👀 Atualmente estou me concentrando em **JavaScript**.
- #Créditos
+
+## Créditos
 
 
 * [`Número do dono`](https://wa.me/5565981709268)
